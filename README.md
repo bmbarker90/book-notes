@@ -1,2 +1,3 @@
-# book-notes
-A place to put notes on the books that I am reading
+# Book Notes
+
+* [The Phoenix Project](the-phoenix-project.md)
